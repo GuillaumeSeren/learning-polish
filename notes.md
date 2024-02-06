@@ -25,3 +25,15 @@
 * Mąż tej kobiety nie mówi po angielsku - This woman husband does not speak English
 * Zegarki potrzebują baterii - watch needs battery
 * Kartka papieru - a sheet of paper
+
+* Jesteśmy wśród was - we are among you
+* Lubię warzywa oprócz pomidora - I like vegetables except tomato
+* Po imprezę idę do łoska - after the party I go to bed
+* Koty są wśród nas - cats are among us
+* Co te mężczyzna robi w mojej szafie - what is this man doing in my wardrobe
+* Wśród zwierząt - among animals
+* Co robisz w weekend? - what are you doing on the weekend
+* Za miesiąc idę do szkoły - I am going to school in a month
+* Ten zegarek jest dla djadka - this watch is for grandpa
+* Łóżko jest blisko biurka - the bed is close to the desk
+* Za domem jest Bassem - there is a swimming pool behind the house
