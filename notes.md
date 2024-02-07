@@ -37,3 +37,18 @@
 * Ten zegarek jest dla djadka - this watch is for grandpa
 * Łóżko jest blisko biurka - the bed is close to the desk
 * Za domem jest Bassem - there is a swimming pool behind the house
+
+* Nasze babcie produkuje skarpetki - our grandmother produce socks
+* Wasza babcie i wasz dziadek - Your grandmother and your grandfather
+* Ten fotel jest różowy - this armchair is pink
+* Mały różowy but - a small pink shoe
+* To jest moja żona - this is my wife
+* Twoja żona nosi spodnie - your wife wear trousers
+* Mój dziadek pije kawę - my grandfather is drinking coffee
+* Jej mąż lubi psy - her husband like dogs
+* Lubię różowy color - I like the pink color
+* Moja żona ma kapelusz - my husband - my wife has a hat
+* Nasze babcie są stare - our grandmas are old
+* Mąż i żona - a husband and a wife
+* Mój  mąż nosi płaszcz - My husband wear an overcoat
+* Twoja babcia i towj dziadek - your grandmother and your grandfather
