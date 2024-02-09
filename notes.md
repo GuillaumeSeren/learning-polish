@@ -52,3 +52,21 @@
 * Mąż i żona - a husband and a wife
 * Mój  mąż nosi płaszcz - My husband wear an overcoat
 * Twoja babcia i towj dziadek - your grandmother and your grandfather
+
+* Student - student
+* Lekarz - doctor
+* To moja praca - This is my job
+* Jesteś modelem - are you a model
+* Jestem w pracy - I am at work
+* To twój personel? - is this your staff ?
+* Personel pracuje - the staff is working
+* Protzebujemy lekarza - we need a doctor
+* Moja córka jest studentką - my daughter is a student
+* Dzień dobry jestem lekarzem - good morning I am a doctor
+* On pracuje jako model - He works as a model
+* Ten model nosi dobre ubrania - this model wear good clothes
+* Modelka ma pracę - this model has a job
+* Kto dla ciebie prakuje - who is working for you ?
+* Masz dobry personel - you have good staff
+* Prakuje jako lekarz - I works as a doctor
+* Ten student parkują jako model - this student works as a model
