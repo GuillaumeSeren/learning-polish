@@ -70,3 +70,21 @@
 * Masz dobry personel - you have good staff
 * Prakuje jako lekarz - I works as a doctor
 * Ten student parkują jako model - this student works as a model
+
+* Artysta - artist
+* Policjant - policeman
+* Nie mam pravnika - i do not have a lawyer
+* Znasz te artystke - do you know this artist
+* Oni są robotnikami - they are workers
+* Ucznovie słuchają - the pupils are listening
+* Oni pracują w policji - they work for the police
+* Policjant prakuje w policji - a policeman works for the police
+* Jestem direktorka tej szkoły - I am the principal of this school
+* Jego secratarka jest studentką - his secretary is a student
+* Prawnik nie ma sekretarki - the lawyer does not have a secretary
+* Mój prawnik nie pracuje z policją - my lawyer does not work with the the police
+* Robotnicy prakuja dla direktorka - the workers works for the director
+* Ta sekretarka prakuje dla direktora - this secretary works for the director
+* Wasza córka to dobra uzcenica - your daughter is a good pupils
+* Jestem uczniem tej szkoły - i am a pupil of this school
+* Jestem policjantem, nie artystą - i am a policeman not an artist
