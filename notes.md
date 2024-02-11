@@ -88,3 +88,21 @@
 * Wasza córka to dobra uzcenica - your daughter is a good pupils
 * Jestem uczniem tej szkoły - i am a pupil of this school
 * Jestem policjantem, nie artystą - i am a policeman not an artist
+
+* Kapitan - captain
+* Gdzie jest kapitan - where is the captain
+* Szef - Boss
+* Żołnierz - soldier
+* Jesteś pisarzem - are you a writer
+* Żołnierz nie śpi - the soldier is not sleeping
+* Oni są żołnierzamy - they are soldiers
+* On jest ochroniazem - he is a gard
+* Mój tat jest aktorem - my dad is an actor
+* Prawnik słucha sędziego - the lawyer is listening to the judge
+* Nowa książka tego pisarza - this writer's new book
+* Sędzia nosi czarne ubrania - the judge wear black clothes
+* Ochroniarz stoi przy drzwiach - the gard is standing by the door
+* Pracownicy szanują szefa - the employee respect the boss
+* Pracownicy nie lubię szefa - the employee does not like the boss
+* Ten sędzia nie szanuje prawników - this judge does not respect lawyers
+* Aktorzy lubię aktorki - actor like actresses
