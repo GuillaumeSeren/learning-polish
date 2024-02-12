@@ -106,3 +106,21 @@
 * Pracownicy nie lubię szefa - the employee does not like the boss
 * Ten sędzia nie szanuje prawników - this judge does not respect lawyers
 * Aktorzy lubię aktorki - actor like actresses
+
+* Rolnik - farmer
+* Nie mam zawodu - i do not have a profession
+* Rolnik ma jabłka - the farmer has apple
+* Oni są kucharzami - they are cooks
+* To jest mój zawód - It is my profession
+* Kucharz gotuje zupę - a cook is cooking soup
+* Czy widzisz kelnerke - do you see the waitress
+* Architekt jest artystą - an architect is an artist
+* To jest kapelusz rolnika - the is the farmer's hat
+* Inżynier produkuje zegarki - an engineer profice watch
+* Ci architektci prakuja w domu - thesr architect works at home
+* Moja siostra jest inżynierem - my sister is an engineer
+* Inżynier prakuje w architektem - the engineer is working with the architect
+* Dlaczego on zatrudnia sekretarkę - why does he employ a secretary
+* Kelner - waiter
+* Kucharz robi obiad dla żołnierzy - the cool is making lunch for soldier
+* Zatrudniasz kelnerów - do you employ waiters
