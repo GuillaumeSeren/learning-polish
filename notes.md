@@ -124,3 +124,12 @@
 * Kelner - waiter
 * Kucharz robi obiad dla żołnierzy - the cool is making lunch for soldier
 * Zatrudniasz kelnerów - do you employ waiters
+
+* Dla kogo pracujesz? - who are you working for
+* Nowa książka tego pisarza - this this writer mew book
+* Dlaczego nie masz prący? - why do you not have a job
+* On jest z architektem - he is with the architect
+* To jest kapelusz rolnika - this is the farmer's hat
+* Z zawodu jestem inżynierem - I am an engineer by profession
+* Mój prawnik nie pracuje policją - My lawyer does not work with the police
+* Kobieta pracuje w ten weekend - this woman works on weekend
