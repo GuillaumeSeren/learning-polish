@@ -133,3 +133,21 @@
 * Z zawodu jestem inżynierem - I am an engineer by profession
 * Mój prawnik nie pracuje policją - My lawyer does not work with the police
 * Kobieta pracuje w ten weekend - this woman works on weekend
+
+* Nota mama je jajka na śniadanie - my mum is eating eggs for breakfast
+* Gotuję z moya babcią - I am cooking with my grandma
+* Pomidory są pomiędzy mięsem i jajkami - the tomatoes are between the meat and th eggs
+* Śpimy w nocy - we sleep at night
+* W czwartek moja mama pisze książkę - my mum is writing a book on friday
+* Gotuję z moją babcia - I am cooking with my grandma
+* Kanapka z mięsem - a meat sandwich
+* Kiedy idziesz na imprezę? - when are you going to the party
+* Twoje kluzcke są na biurku - your key are on the table
+* Pomiędzy oknem i drzwiami jest biurko - there is a desk between the window and the door
+* Żółty talerz jest pomiędzy miską i patelnia - the yellow plate is between the bowl and the frying pan
+* Pomidory są pomiędzy mięsem i jajkami - the tomatoes are between the meat and the eggs
+* W maju nie noszę czapki - I do not wear a cap in may
+* Kapakpa z mięsem - a meat sandwich
+* Na talerzu jest jajko - on the plate there is an egg
+* Do kogo idziemy na obiad? - whose place are we going to for lunch
+* W mojej lodówce nie ma mięsa - there is no meat in my refrigerator
