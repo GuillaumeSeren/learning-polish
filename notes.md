@@ -151,3 +151,15 @@
 * Na talerzu jest jajko - on the plate there is an egg
 * Do kogo idziemy na obiad? - whose place are we going to for lunch
 * W mojej lodówce nie ma mięsa - there is no meat in my refrigerator
+
+* Mówimy o kanapkach - we are speaking about sandwiches
+* Od czasu do czasu - from time to time
+* Ta zupa jest dla dzieci - the soup is for the kids
+* To jest jedzenie dla zwierząt - it is food for animals
+* Od dziś do niedzieli - from today to Sunday
+* Książka o zwierzętach - a book about animals
+* Oni pisze książka o kanapkach - she is writing a book about sandwiches
+* Nie robię kanapkę dla mojego męża - i do not make sandwich for my husband
+* On mówi do zwierzęcia - je is talking to animals
+* Idziemy do nazcie babcie - we are talking to our grandma
+* Mówimy o moich rodzicach - we are speaking about my parents
