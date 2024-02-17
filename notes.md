@@ -163,3 +163,22 @@
 * On mówi do zwierzęcia - je is talking to animals
 * Idziemy do nazcie babcie - we are talking to our grandma
 * Mówimy o moich rodzicach - we are speaking about my parents
+
+* Idę po chleb - I am going to get bread
+* Po piątku jest sobota - after Friday is Saturday
+* Ty stoisz przed szkołą - you are standing in front of the school
+* Ona stoi przed lustrem - she is standing in front of the mirror
+* Leżę w łóżku - I am lying on the bed
+* Leżę na sofie - i am lying on the sofa
+* Mój kot leżę na łóżku - my cat is lying on the bed
+* Wy stoicie przed szkołą - you are standing in front of the school
+* Ona stoi przed lustrem - she is standing in front of the mirror
+* Za miesiąc idę do szkoły - i am going to school in a month
+* Po imprezie idę do łóżka - after the party I am going to bed
+* Za domem jest bassen - there is a swimming pool behind the house
+* Dlaczego na mnie leżysz - why are you lying on me
+* Lampa jest za biurkiem - the lamp is behind the desk
+* Jestem za drzwiami - i am behind the door
+* Kot leży przed telewizorem - the is lying in front of the television set
+* Leżę w łóżku - i am lying in bed
+* Leżę na sofie - I am lying on the sofa
