@@ -182,3 +182,20 @@
 * Kot leży przed telewizorem - the is lying in front of the television set
 * Leżę w łóżku - i am lying in bed
 * Leżę na sofie - I am lying on the sofa
+
+Za domem jest bassen - behind this house there is a pool
+Idę po chleb - I am going to get bread
+Lampa jest za biurkiem - the lamp is behind the desk
+On jest przed lustrem - he is in front of the mirror
+Za miesiąc idę do szkoły - I am going to school in a month
+Kot leży przed telewizorem - the cat is lying in front of the television set
+Ona stoi przed lustrem - she is standing in front of the mirror
+Leżę w łóżku - I am lying on the bed
+Wy stoicie przed szkołą - you are standing in front of the school
+Dlaczego mnie na leżysz - why are you lying on me
+Po imprezie idę do łóżka - after the party I am going to bed
+Lampa stoi na biurku - the lamp is standing on the desk
+Kot chodzi po łóżku -the cat is walking on the bed
+Jestem za drzwiami - I am behind the door
+Ty stoisz przed szkołą - you are standing in front of the school
+Jabłko leży na stole - the apple is on the table
