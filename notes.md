@@ -199,3 +199,21 @@ Kot chodzi po łóżku -the cat is walking on the bed
 Jestem za drzwiami - I am behind the door
 Ty stoisz przed szkołą - you are standing in front of the school
 Jabłko leży na stole - the apple is on the table
+
+* Widzę pokój bez okien - i see a room without windows
+* Stoję przy stole -i am standing by the table
+* Jestem u babci - i am at grandma's
+* Oprócz wody - except for water
+* Lubię warzywa oprócz pomidora - I like vegetables except tomatoes
+* Oni śpią bez niego - they sleep without him
+* Widzę pokoi bez okien - I see a room without windows
+* Lubię moja rodzinę oprócz meja wujka - I like my family except dor my uncle
+* My nie jesteśmy u babcie - we are not at grandma's
+* Jestem przy basenie - i am by the swimming pool
+* Oprócz warzyw - except vegetables
+* Posiłek bez warzyw - a meal without vegetables
+* Movicie o warzywach - we are talking about vegetables
+* Oni jedzą obiad przy stole - the eat lunch at the table
+* Oni są u mojej mamy - they are at my mum's
+* Warzywa - vegetables
+* Stole przy stole - I am standing by the table
