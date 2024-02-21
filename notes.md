@@ -217,3 +217,18 @@ Jabłko leży na stole - the apple is on the table
 * Oni są u mojej mamy - they are at my mum's
 * Warzywa - vegetables
 * Stole przy stole - I am standing by the table
+
+* Jestem pod łóżkiem - i am under the bed
+* Wśród zwierząt - among animals
+* Dziecko jest pod stolem - the child is under the table
+* Okno jest nad biurkiem - the window is above the desk
+* Ona stoi obok niego - she is standing next to him
+* Mój dom jest naprzeciwko mojej szkoły - my house is opposite to my school
+* Mężczyzna jest naprzeciwko kobiety - the man is standing opposite to the woman
+* Jestem obok was - I am standing next to you
+* Lustro jest nad łóżkiem - the mirror is above the bed
+* Mój dom jest obok mojej szkoły - my home is next to my school
+* Jestem obok ciebie - I am next to you
+* Ona jest pod prysznicem - she is the shower
+* Okno jest nad biurkiem - the windows is above the desk
+* Jesteśmy wśród was - we are among you
