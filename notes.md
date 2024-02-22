@@ -232,3 +232,21 @@ Jabłko leży na stole - the apple is on the table
 * Ona jest pod prysznicem - she is the shower
 * Okno jest nad biurkiem - the windows is above the desk
 * Jesteśmy wśród was - we are among you
+
+* Jestem blisko ciebie - i am close to you
+* Jestem blisko twojego domu - i am close to your house
+* Podczas obiadu pijemy wino - during lunch we drink wine
+* Według nas - on our opinion
+* Według niego ta sukienka jest czarna - according to him this dress is black
+* Nie pije kawy przed obiadem - i do not drink coffee before lunch
+* Wy stoicie blisko okna - we are standing close to the window
+* Według niego ta sukienka jest czarna - according to him this dress is black
+* Idę przed twój dom - i am walking through your house
+* To przez ciebie - it is because of you
+* Według mnie jest dobrze - on my opinion it is fine
+* Podczas jesieni jemy jabkła - during automne we eat apples
+* Idę przez twój dom - I am walking through you house
+* Wy stoicie blisko okna - we are standing close to the window
+* To przez ciebie - it is because of you
+* Widzę was przez okno - i see you through the window
+* Oni nie słuchają muzyki podczas obiadu - they do not listen to music during lunch
