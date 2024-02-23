@@ -250,3 +250,16 @@ Jabłko leży na stole - the apple is on the table
 * To przez ciebie - it is because of you
 * Widzę was przez okno - i see you through the window
 * Oni nie słuchają muzyki podczas obiadu - they do not listen to music during lunch
+
+* Po imprezie idę do łóżka - after the party I am going to bed
+* Ona piszę książka o kanapkach - she is writing a book about sandwiches
+* To jest jedzenie dla zwierząt - this is food for animals
+* On mówi do zwierzęcia - he is talking to the animal
+* Za mięsa idę do szkoły - I am going to school in a month
+* Jestem blisko ciebie - I am close to you
+* Ona piszę książkę o kanapkach - she is writing a book about sandwiches
+* Masz czas w ten weekend - do you have time this weekend
+* Mówimy moich rodzicach - we are talking about my parents
+* On jest przed lustrem - he is in front of the mirror
+* Śpię w mój łóżku - I am sleeping in my bed
+* Mówimy o moich rodzicach - we are talking about my parents
