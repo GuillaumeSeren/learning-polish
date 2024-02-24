@@ -263,3 +263,21 @@ Jabłko leży na stole - the apple is on the table
 * On jest przed lustrem - he is in front of the mirror
 * Śpię w mój łóżku - I am sleeping in my bed
 * Mówimy o moich rodzicach - we are talking about my parents
+
+* Studenci pracuję - the students are working
+* Ona jest modelką - she os a model
+* Personel pracuje - the staff is working
+* Moja córka jest studentką - my daughter is a student
+* Modelka ma pracę - the model has a job
+* Dzień dobry jestem lekarzem - good morning I am a doctor
+* To twój personel - is it you staff ?
+* Yo moja praca - this is my job
+* On pracuje jako model - she works as a model
+* Ten student prakuje jako model - This student works as a model
+* Model ma pracę - the model has a job
+* Pracuje jako lekarz - I work as a doctor
+* Potrzebujemy lekarza! - we need a doctor
+* To moja praca - this is my job
+* Masz dobry personel - you have good staff
+* Pracuje jako lekarz - I work as a doctor
+* Ta studentką promuje jęki modelka - this student works as a model
