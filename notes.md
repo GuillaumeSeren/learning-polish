@@ -281,3 +281,22 @@ Jabłko leży na stole - the apple is on the table
 * Masz dobry personel - you have good staff
 * Pracuje jako lekarz - I work as a doctor
 * Ta studentką promuje jęki modelka - this student works as a model
+
+* On jest artystka - he is an artist
+* Jego sekretarka jest studentką - his secretary is a student
+* Nie mam prawnika - i do not have a lawyer
+* Prawnik nie ma sekretarki - the lawyer does not have a secretary
+* Jestem policjantem ni artystka! - I am a policeman not an artist
+* Oni są robotnikami - they are workers
+* Robotnicy pracują dla dyrektora - the workers works for the director
+* Ten artystka pisze książkę - this artist write books
+* Ta policjantka jest nowa - this policewoman is new
+* Ta sekretarka produkuje dla direktora - this secretary works for the director
+* Jestem uczniem tej szkoły - I am a pupil of this school
+* Policjant pracuje w policji - the policeman works for the police
+* Uczeń pisze książkę - the pupil is writing a book
+* Oni pracują w policji - they works for the police
+* Jestem principal tej szkoły - I am a director in this school
+* Mój prawnik ni pracuje z policję - My lawyer does not work with the police
+* Jestem uczniem tej szkoły - I am a pupil of this school
+* Policjant pracuje w policji - the policeman works with the police
