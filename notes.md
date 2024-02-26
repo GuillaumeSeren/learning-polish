@@ -300,3 +300,20 @@ Jabłko leży na stole - the apple is on the table
 * Mój prawnik ni pracuje z policję - My lawyer does not work with the police
 * Jestem uczniem tej szkoły - I am a pupil of this school
 * Policjant pracuje w policji - the policeman works with the police
+
+* Jesteś pisarzem? - are you a writer ?
+* Mój szef to dobre człowiek - my boss is a good man
+* Jesteś pisarką - are you a writer ?
+* Aktor pije kawę - the actor is drinking coffee
+* Nas kapitan jest żołnierzem - our captain is a soldier
+* Aktor pije kawę - the actor is drinking coffee
+* Pracownik nie lubi szefa - the employee does not like the boss
+* Mój brat jest żołnierzem - My brother is a soldier
+* On jest pisarzem - he is a writer
+* Ona jest pracownikiem tej szkoły - she is a employee of this school
+* Kto jest kapitanem - who is the captain?
+* Sędzia nosi czarne ubrania - the judge is wearing black clothes
+* On jest ochroniarzem - he is a guard
+* Czy potrzebujemy aktora - do you need an actor?
+* Ten sędzia nie szanuje prawników - this judge does not respect lawyers
+* Ochroniarz stoi pry drzwiach - the guard is standing by the door
