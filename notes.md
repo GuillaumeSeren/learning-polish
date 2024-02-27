@@ -317,3 +317,21 @@ Jabłko leży na stole - the apple is on the table
 * Czy potrzebujemy aktora - do you need an actor?
 * Ten sędzia nie szanuje prawników - this judge does not respect lawyers
 * Ochroniarz stoi pry drzwiach - the guard is standing by the door
+
+* On jest kelnerem - he is a waiter
+* To jest mój zawód - it is my profession
+* Oni są kucharzami - they are cooks
+* Moja siostra jest inżynierem - my sister is an engineer
+* Architekt jest artystą - an architect is an artist
+* Rolnik ma jabłka - the farmer has apples
+* Nie mam zawodu - I do not have a profession
+* One są kucharzami - they are cooks
+* Rolnik szuka żona - the farmer is looking for a wife
+* Inżynier pracuje z architektem - the engineer is working with the architect
+* Zatrudniasz kelnerów - do you employ waiters
+* My zatrudniamy inżynieria i architekta - we employ the engineer and the architect
+* Kucharz robi obiad dla żołnierzy - the cook is making lunch for soldiers
+* Czy widzisz kelnerkę - Do you see the waitress
+* Z zawodu jestem lekarzem - I am a doctor by profession
+* To jest kapelusz rolnika - this is the farmer's hat
+* Dlaczego on zatrudnia sekretarkę? - why does he employ a secretary
