@@ -335,3 +335,15 @@ Jabłko leży na stole - the apple is on the table
 * Z zawodu jestem lekarzem - I am a doctor by profession
 * To jest kapelusz rolnika - this is the farmer's hat
 * Dlaczego on zatrudnia sekretarkę? - why does he employ a secretary
+
+* Mój szef to dobry człowiek - my boss is a good man
+* Żołnierz idzie z psem - the soldier is walking with the dog
+* Dlaczego on zatrudnia sekretarkę - why does he employ a secretary
+* Kobieta pracuje w ten weekend - the woman is working on the weekend
+* Nowa książka tego pisarza - this writer new book
+* To jest kapelusz rolnika - this is the farmer's hat
+* On jest z architektem - he is with the architect
+* Mój brat jest moim pracownikiem - my brother is my employee
+* Kobieta pracuje w ten weekend - the woman is working on the weekend
+* Dla kogo pracujesz - who are you working for
+* Nowa książka tego pisarza - this writer new book
