@@ -347,3 +347,24 @@ Jabłko leży na stole - the apple is on the table
 * Kobieta pracuje w ten weekend - the woman is working on the weekend
 * Dla kogo pracujesz - who are you working for
 * Nowa książka tego pisarza - this writer new book
+
+* Modelka ma pracę - the model has a job
+* Jesteś modelem - are you a model
+* To twój personel - is this your staff
+* Mój syn jest studentem - my son is a student
+* Studenci pracuję - the students are working
+* To moja praca - this is my job
+* Masz dobry personel - you have good staff
+* Student - student
+* Kreska ć ń ó ś ź ł
+* Kropka ż
+* Ogonek ą ę
+* Masz dobry personel - you have a good staff
+* Ona pracuje jako modelka - she works as a model
+* Potrzebujemy lekarza - we need doctor
+* Ten student pracuje jako model - this student works as a model
+* Pracuję jako lekarz - i work as a doctor
+* Lekarz - doctor
+* Dlaczego nie masz pracę - why do you not have a job
+* Jestem w prace - I am at work
+* Czy wasz wujek jest lekarzem - is your uncle a doctor
