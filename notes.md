@@ -368,3 +368,21 @@ Jabłko leży na stole - the apple is on the table
 * Dlaczego nie masz pracę - why do you not have a job
 * Jestem w prace - I am at work
 * Czy wasz wujek jest lekarzem - is your uncle a doctor
+
+* Uczniowie słuchają - the pupils are listening
+* Nie mam prawnika - I do not have a lawyer
+* Ten artystka pisze książki - this artist writes books
+* Artysta nie pracuje - the artist is not working
+* Robotnicy pracują dla dyrektora - the workers work for the director
+* Ta sekretarka pracuje dla dyrektora - this secretary works for the director
+* Policjant pracuje w policji - the policeman works for the police
+* Moja siostra jest sekretarką - my sister is a secretary
+* Robotnik nie pracuje w niedzielę - the worker does not work on sunday
+* Jego sekretarka jest studentką - his secretary is a student
+* Mój prawnik nie pracuje z policją - my lawyer does not work with the police
+* Policjant pracuje w policji - A policeman is working with the police
+* Twoja córka to dobra uczennica -  your daughter is a good pupils
+* Oni są robotnikami - they are workers
+* Uczennice słuchają - the pupils are listening
+* Prawnik pracuje z dyrektorem - the lawyer is working with the director
+* Policjant - a policeman
