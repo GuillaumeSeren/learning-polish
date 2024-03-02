@@ -386,3 +386,20 @@ Jabłko leży na stole - the apple is on the table
 * Uczennice słuchają - the pupils are listening
 * Prawnik pracuje z dyrektorem - the lawyer is working with the director
 * Policjant - a policeman
+
+* Nowa książka tego pisarza - this writer new book
+* On są żołnierzami - they are soldiers
+* Moja mama jest aktorką - my mother is an actress
+* Kto jest kapitanem - who os the captain
+* Pracownicy szanują szefa - the employee respect the boss
+* Moja mama jest aktorką - my mother is an actress
+* Ochroniarz stoi przy drzwiach - the guard is standing by the door
+* Ochroniarz ma czarnego psa - The guard has a black dog
+* Kto jest kapitanem - who is the captain
+* Prawnik słucha sędziego - the lawyer is listening to the judge
+* Mój brat jest żołnierzem - my brother is a soldier
+* To jest mój pracownik - the is my employee
+* On jest ochroniarzem - he is a guard
+* Pracownik nie lubię szefa - the employee does not like the boss
+* Szef - Boss
+* Nowa książka tego pisarza - this writer new book
