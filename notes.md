@@ -403,3 +403,13 @@ Jabłko leży na stole - the apple is on the table
 * Pracownik nie lubię szefa - the employee does not like the boss
 * Szef - Boss
 * Nowa książka tego pisarza - this writer new book
+
+Kelner - waiter!
+Zatrudnianie kelnerów - do you employ waiters
+Z zawodu jestem inżynierem - i am an engineer by profession
+Oni są kucharzami - they are cooks
+Czy widzisz kelnerkę - do you see the waitress
+To jest mój zawód - this is my profession
+My zatrudniamy inżynieria i architekta - we employ the engineer and the architect
+Kucharz robi obiad dla żołnierzy - the cook is make lunch for the soldiers
+Czy widzicie kelnerkę? - Do you see the waitress
