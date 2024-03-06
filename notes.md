@@ -413,3 +413,15 @@ To jest mój zawód - this is my profession
 My zatrudniamy inżynieria i architekta - we employ the engineer and the architect
 Kucharz robi obiad dla żołnierzy - the cook is make lunch for the soldiers
 Czy widzicie kelnerkę? - Do you see the waitress
+
+Żołnierz idzie z psem - the soldier is walking with the dog
+Inżynier nosi biała koszulę - the engineer is wearing a white shirt
+Oni są żołnierzami - they are soldiers
+Ona pracuje jako modelka - she works as a model
+Kobieta pracuje w ten weekend - the woman is works this  weekend
+Dzień dobry, jestem lekarze - good morning, I am a doctor
+Direktor nie lubię tej kawy the director does not like this coffee
+Pracuję jako lekarz - I work as a doctor
+Robotnicy pracują dla direktora - the workers works for the director
+Mój masz tej direktorem - my husband is a director
+Inżynier pracuje z architektem - the engineer works with the architect
