@@ -425,3 +425,18 @@ Pracuję jako lekarz - I work as a doctor
 Robotnicy pracują dla direktora - the workers works for the director
 Mój masz tej direktorem - my husband is a director
 Inżynier pracuje z architektem - the engineer works with the architect
+
+Pomarańczowy Kot - an orange cat
+Mały różowy but - a small pink shoes
+Ten fotel jest różowy - this armchair is pink
+Nasze babcie są stare - our grandmas are old
+Nasza babcie produkcja skarpety - our grandmas produce socks
+To jest moja żona - this is my wife
+Wasza babcie mają kapelusze - your grandma's have hats
+Twoja ciocia je śniadanie - your ant is eating breakfast
+Nasza ciocia pisze książkę - our aunt is writing a book
+Ten tygrys jest pomarańczowy - this tiger is orange
+Moja zona ma kapelusz - my wife has a hat
+Twoja żona nosi spodnie - your wife wear trousers
+Ten fotel jest różowy - this armchair is pink
+Twoja ciocia ma krzesło i stół - my aunt has a chair and a table
