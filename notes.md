@@ -440,3 +440,18 @@ Moja zona ma kapelusz - my wife has a hat
 Twoja żona nosi spodnie - your wife wear trousers
 Ten fotel jest różowy - this armchair is pink
 Twoja ciocia ma krzesło i stół - my aunt has a chair and a table
+
+Kto to jest - who is this ?
+Moja córka mnie kocha - my daughter moves me
+Kogo kocha nasza córka - who does our daughter love
+On potrzebuje szklanki wody - he need a glass of water
+Wasz wujek lubi konie - your uncle likes horses
+On nie pije wódy - he is not drinking water
+Kto pisze książki - who write books
+Jego ciocia i jego wujek - his aunt and his uncle
+Czy kot je mięso - whose car is eating meat
+Kto zna tego chłopca - who know this boy
+Twój wujek jest stare - your uncle is old
+Czy jest ten kapelusz - who hat is this ?
+Kogo nazwa córka kocha - who does our daughter love
+On nie pije wódy - he is not drinking water
