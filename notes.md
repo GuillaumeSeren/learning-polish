@@ -455,3 +455,16 @@ Twój wujek jest stare - your uncle is old
 Czy jest ten kapelusz - who hat is this ?
 Kogo nazwa córka kocha - who does our daughter love
 On nie pije wódy - he is not drinking water
+
+Woda i mydło - water and soap
+Noszę szare majtki i pomarańczowe skarpety - I wear grey underpants and orange socks
+Czya jest ta karta papieru? - whose is this sheet of paper
+Ona szuka męża - she is looking for a husband
+Moja mama ma zielony kapelusz - my mum has a green hat
+Wasza rodzina jest mała - your family is small
+Szukamy pomidora - we are looking for a tomato
+One wychowują dzieci - they are bringing up the children
+Ta captcha jest zielony - this cap is green
+Który to tydzień - which week it is
+Ty i ja sprzedajemy duże kanapki - you and I are selling big sandwiches
+Ty wspierasz moją matkę -  you support my mother
