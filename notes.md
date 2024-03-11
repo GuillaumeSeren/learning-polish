@@ -468,3 +468,20 @@ Ta captcha jest zielony - this cap is green
 Który to tydzień - which week it is
 Ty i ja sprzedajemy duże kanapki - you and I are selling big sandwiches
 Ty wspierasz moją matkę -  you support my mother
+
+On jest moim szefem - he is my boss
+Jestem policjantem, nie artystą! - I am a policeman not an artist
+Nie robię kanapek dla mojego męża - I do not make sandwich for my husband
+lampa jest za biurkiem - the lamp is behind the desk
+Ona jedzą obiad przy stole they eat lunch at the table
+On są blisko domu - they are near the house
+Moja mama je jajka na śniadanie - my kom eat eggs for breakfast
+Podczas jesieni jemy jabłka - during autumn we eat apple
+Żółty talerz jest pomiędzy miską i patelnia - the yellow plate is between the bowl and the frying pan
+Kanapka z jajkiem - egg sandwich
+Moja siostra jest inżynierem - my sister is engineer
+On jest moim szefem - he is my boss
+Idziemy do naszej babci - we are walking to our grandmother's
+Podczas jesieni jemy jabłka - during autumn we eat apples
+W jej koszu są jajka i kanapki these are apples and sandwiches in her basket
+Dzięki jest pod stołem - the child is under the table
