@@ -485,3 +485,20 @@ Idziemy do naszej babci - we are walking to our grandmother's
 Podczas jesieni jemy jabłka - during autumn we eat apples
 W jej koszu są jajka i kanapki these are apples and sandwiches in her basket
 Dzięki jest pod stołem - the child is under the table
+
+Nie lubię pana - i do not like you
+Tak widzę panią - yes I see you
+Co państwo robią - what are you doing
+Czy ja panów znam - do I know you
+On pani nie pamięta - he does not remember you
+Pani robi dobre jedzenie - you make good food
+Czy mówi pani po angielsku - do you speak English
+Ten pan nie ma domu - this gentleman does not have a house
+Oni państwa wspierają - they are supporting you
+Czy panie sprzedażą parasole? - do you sell umbrellas ?
+Dzień dobry kogo panie szukają - good morning who are you looking for
+Ten pan kupuje chłeb - this man is buying bread
+Panie i panowie - Ladies and gentlemen
+Ten pan to mój wujek - this man is my uncle
+Kogo państwo szukają - who are you looking for
+Oni państwa nie szanują - they do not respect you
