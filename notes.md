@@ -502,3 +502,12 @@ Panie i panowie - Ladies and gentlemen
 Ten pan to mój wujek - this man is my uncle
 Kogo państwo szukają - who are you looking for
 Oni państwa nie szanują - they do not respect you
+
+On pani nie pamięta - je does not remember you
+Czy mówi pani po angielsku - do you speak English
+Kogo państwo szukają - who are you looking for
+Dzień dobry kogo panie szukają - good morning who are you looking for
+Oni państwa wspierają - they are supporting you
+Ten pan to mój wujek - this man is my uncle
+Oni państwa nie szanują - they do not respect you
+Tak widzę panią - yes I see you
