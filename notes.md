@@ -511,3 +511,12 @@ Oni państwa wspierają - they are supporting you
 Ten pan to mój wujek - this man is my uncle
 Oni państwa nie szanują - they do not respect you
 Tak widzę panią - yes I see you
+
+Panie i panowie - Ladies and gentlemen
+Ten pan nie ma domu - this gentleman does not have a home
+Tak widzę panią - Yes I see you
+Nie lubię pana - i do not like you
+Kogo państwo szukają - who are you looking for
+Tak widzę pania - yes I see you
+Oni państwa wspierają - they are supporting you
+Oni państwa nie szanują - they do not respect you
