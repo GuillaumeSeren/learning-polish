@@ -520,3 +520,14 @@ Kogo państwo szukają - who are you looking for
 Tak widzę pania - yes I see you
 Oni państwa wspierają - they are supporting you
 Oni państwa nie szanują - they do not respect you
+
+Oni państwa nie szanują + they do not respect you
+Czy panie sprzedażą parasole - do you sell umbrellas
+On pani nie pamięta - he does not remember you
+Czy mówi pani po angielsku - do you speak English?
+Oni państwa wspierają - they support you
+Kogo państwo szukają - who are you looking for
+Ten pan kupuje chleb - this gentleman is buying bread
+Nie lubię pana - I do not like you
+Ten pan to mój wujek - this man is my uncle
+Oni państwa nie szanują - they do not respect you
