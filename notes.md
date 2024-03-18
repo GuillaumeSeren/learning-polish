@@ -531,3 +531,21 @@ Ten pan kupuje chleb - this gentleman is buying bread
 Nie lubię pana - I do not like you
 Ten pan to mój wujek - this man is my uncle
 Oni państwa nie szanują - they do not respect you
+
+Kupuje nową wannę - I am buying s new bathtub
+Szukam maję torby - I am looking for a small bag
+Ona jest dobra babcia - she is a good grand mother
+Jem smacznego pomidora - I am eating a tasty tomato
+Ten kot jest zły kotem- this cat is a bad cat
+Nie lubię starych dywanów - i do not like old carpets
+Nie pamiętam złej imprezy - i do not remember a bad party
+On nie ma dobrych parasoli - He does not have good umbrella
+Sprzedaję moja starą komórkę - I am selling my old cellphone
+Ten kucharz nie gotuję smaczne zupy - this cook is not cooking tasty soup
+Potrzebujemy dobrego psa - we need a good dog
+On mówi o dużych jabłkach - he is talking about big apples
+Nie dostarczamy dużych jabłek - we do not deliver big apple
+Oni nie sprzedają smacznych jabłek - they do not sell tasty apples
+Potrzebuję nowej łyżki - I need a new spoon
+Ona jest źlym człowiekiem - she is a bad person
+Nie lubię małych psów - I do not like small dogs
