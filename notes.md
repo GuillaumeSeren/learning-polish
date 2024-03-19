@@ -549,3 +549,22 @@ Oni nie sprzedają smacznych jabłek - they do not sell tasty apples
 Potrzebuję nowej łyżki - I need a new spoon
 Ona jest źlym człowiekiem - she is a bad person
 Nie lubię małych psów - I do not like small dogs
+
+Nie jestem inny - i am not different
+Jesteś następnie - you are next
+To ważna chwila - it is an important moment
+Masz inną pracę - do you have another world
+Rondla mnie ważne - this is important to me
+Znam bogatą artystkę - I know a rich artist
+Ona ma bogatego męża - she ha a rich husband
+Potrzebuję innego noża - I need a different knife
+Następny dzień poprzedni dzień - the next day the previous day
+Gdzie jest moja następna butelka - where is my next bottle
+Biedny student pracuje jako kelner - the poor student works as a waiter
+To jest biurko mojego poprzedniego szefa - this is the desk of my previous boss
+Ten bogaty mężczyzna wspiera biednych - this rich Man support the poor
+Za miesiąc idę do szkoły - i am going to school on a month
+Normalny dom, normalna szkoła, normalni rodzicie - a normal house a normal school normal parents
+To biedna rodzina - this is a poor family
+Ta flaga jest dla mnie ważna - this flag is important to me
+Moja poprzednia żona jest aktorką - my previous wife is an actress
