@@ -568,3 +568,21 @@ Normalny dom, normalna szkoła, normalni rodzicie - a normal house a normal scho
 To biedna rodzina - this is a poor family
 Ta flaga jest dla mnie ważna - this flag is important to me
 Moja poprzednia żona jest aktorką - my previous wife is an actress
+
+Jestem czysty? - Am I clean
+Jest ciemna noc - it is a dark night
+Mam brudne okna - I have dirty windows
+Brudne noże i widelce - dirty knives and forks
+Lustro jest czyste - the mirror is clean
+Lubisz jasne kolory - do you like light colors
+Ten stół jest brudny - this table is dirty
+Czy macie czystą wodę - do you have clean water
+Ten pokój jest idealny - this room is perfect
+Widzę całą torbę jabłek - I see a whole bag of apples
+Nie widzę ciemnego ekranu - i do not see the dark screen
+Idealna kolacja z moim mężem - a perfect dinner with my husband
+Całą moją rodziną potrzebuję lodówki - my entire family needs a refrigerator
+Ceńmy pokoi w jasnym domu - a dark room in a bright house
+To idealne dzieżo jest w idealnej szkole - the perfect child is in a perfect school
+Pracujemy cały miesiąc - we work the entire month
+Latem nosimy jasne ubrania - in the summer we wear bright clothes
