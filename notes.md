@@ -586,3 +586,21 @@ Ceńmy pokoi w jasnym domu - a dark room in a bright house
 To idealne dzieżo jest w idealnej szkole - the perfect child is in a perfect school
 Pracujemy cały miesiąc - we work the entire month
 Latem nosimy jasne ubrania - in the summer we wear bright clothes
+
+Jestem modły - i am young
+Niskie krzesło - a low chair
+Masz miłego tatę - you have a kind dad
+To jest wspaniałe! - it is wonderful
+Ten pan jest wysoki - this gentleman is tall
+Rodzice kupują niską sofę - the parents are buying a low sofa
+Słuchasz popularnej muzyki -you listen to popular music
+Widzę wysokiego policjanta - ai see a tall policeman
+To dla mnie wspaniałe dzień - it is a wonderful day for me
+Mówimy o popularnym pisarzu - we are speaking about a popular writer
+Oni wspierają młoda artystkę -they support a young artist
+On zatrudnia młodych inżynierów - he employs young engineers
+W moim pokoju stoi wysoka szafa - there is a tall wardrobe in my room
+Ta kobieta jest wspaniała aktorką - this woman is a wonderful actress
+Twoja siostra jest popularną aktorką - your sister is a popular actress
+Jesteście dla mnie mili - you are nice to me
+Ci niscy mężczyźni pracują w szkole - the short men work in a school
