@@ -604,3 +604,21 @@ Ta kobieta jest wspaniała aktorką - this woman is a wonderful actress
 Twoja siostra jest popularną aktorką - your sister is a popular actress
 Jesteście dla mnie mili - you are nice to me
 Ci niscy mężczyźni pracują w szkole - the short men work in a school
+
+Mam krótka bluzę - I have a short sweatshirt
+Nasz dom jest piękny - our house is beautiful
+Widzę pięknego konia - I see a beautiful horse
+Ona nosi lekką kurtkę -she wear a light jacket
+Luty to krótki miesiąc - February is a short month
+Te spodnie są brzydkie - these trousers are ugly
+Ten płaszcz jest brzydki - this overcoat is ugly
+Kwiecień to długi miesiąc - April is a long month
+Dziś jest długi dzień - today is a long day
+Lubię moje długie skarpety - I like long socks
+Potrzebujesz lekkiego kosza - you need a light basket
+Mężczyźni niosą ciężka szafę - the men are carrying a heavy wardrobe
+Twój maż nosi brzydką koszulę - your husband wears an ugly shirt
+Gdzie są twoje krótkie spodnie? - where are your short pants
+Moja żona kupuje piękną sukienkę - my wife is buying a beautiful dress
+Pies jest lekki człowiek jest ciężki - the dog is light the human is heavy
+Nie kupuję ciężkich lodówek - i do not buy heavy fridge
