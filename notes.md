@@ -622,3 +622,21 @@ Gdzie są twoje krótkie spodnie? - where are your short pants
 Moja żona kupuje piękną sukienkę - my wife is buying a beautiful dress
 Pies jest lekki człowiek jest ciężki - the dog is light the human is heavy
 Nie kupuję ciężkich lodówek - i do not buy heavy fridge
+
+To ciekawe - this is interesting
+Darmowy obiad - free lunch
+Woda jest tania - water is cheap
+Duża wygodna sofa - a Big confortable sofa
+Pijemy tanią kawę - we are drinking cheap coffee
+Mam darmowa gazetę - i have a free newspaper
+Kupuje wygodny fotel - I am searching a comfortable armchair
+Szukamy wygodnego pokoju - we are looking for a comfortable room
+Niedziela to nudny dzień - Sunday is a boring day
+Pamiętam te nudna imprezę - I remember this boring party
+Ten computer nie jest tani - this computer is not cheap
+Czy ten kapelusz jest drogi - is this hat expensive
+Dlaczego ta rzecz jest droga - why is this thing expensive
+Dlaczego ta książka jest nudna - why is this book boring
+Jesteś ciekawą kobietą - you are an interesting woman
+Ciekawe pytanie - this is an interesting question
+Masz drogie rzezy - do you have expensive things
