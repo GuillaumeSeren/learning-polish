@@ -640,3 +640,21 @@ Dlaczego ta książka jest nudna - why is this book boring
 Jesteś ciekawą kobietą - you are an interesting woman
 Ciekawe pytanie - this is an interesting question
 Masz drogie rzezy - do you have expensive things
+
+Jesteś smutny - are you sad ?
+Dziś jestem smutny - I am sad today
+Dzieci są mokre - the children are wet
+Nie jestem słaba - i am not weak
+Mam wesołego wujka - I have a cheerful uncle
+Te dzieci są słabe - these children are weak
+Ona słucha smutnej Muzyki - she is listening to sad music
+Czy ta podłoga jest sucha - is this floor dry
+Oni słuchają wesołej muzyki - they are listening to cheerful music
+Dlaczego ta Gambia jest mokra - why this Sponge is wet
+Twoja żona jest silną kobietą - your wife is a strong woman
+Twoje zielone spodnie są suche - your green trousers are dry
+Twój syn jest wesołym chłopcem - your son is a cheerful boy
+Ona potrzebuję silnego mężczyzny - she need a strong man
+Mężczyzna jest silni, chłopiec jest słabi - the man is strong the boy is weak
+Nasze psy są mokre - our dogs are wet
+Moje fioletowe talerze są suche - my violet plate are dry
