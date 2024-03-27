@@ -658,3 +658,28 @@ Ona potrzebuję silnego mężczyzny - she need a strong man
 Mężczyzna jest silni, chłopiec jest słabi - the man is strong the boy is weak
 Nasze psy są mokre - our dogs are wet
 Moje fioletowe talerze są suche - my violet plate are dry
+
+Drewniana łyżka - a wooden spoon
+Wysoka wąska szafa - a tall narrow wardrobe
+To jest wąski pokoi - this is a narrow room
+Szanujemy sławnych ludzi - we respect famous people
+On nosi szerokie spodnie - he wear wide trousers
+Oni są sławnymi artystami - they are famous artist
+Szeroki ekran - a wide screen
+Drewniana łyżka - A wooden spoon
+Wysoka wąska szafa - a tall narrow wardrobe
+To jest wąski pokoi - this is a narrow room
+Nie mamy wąskich biurek - we do not have narrow desk
+Szanujemy sławnych ludzi - we respect famous people
+On nosi szerokie spodnie - he wear wide trousers
+Oni są znanymi artystami - the are famous artist
+Tamta aktorką jest sławna - this actress is famous
+Ona niesie plastikowa miskę - she is carrying a plastic bowl
+Gotuję na metalowej kuchence - I cook on a metal stove
+Moja babcia ma drewniany zegar - my grandma has a wooden clock
+Kupujemy jajka od tego mężczyzny - we are buying eggs from this man
+Kroje pomidory metalowym nożem - I am cutting tomatoes with a metal knife
+Sprzedaję metalowe i plastikowe rzeczy - I am selling metal and plastic things
+Jem plastikowej widelcem - I am eating with a plastic fork
+Ta kobieta kupuje szeroka zsofe - this woman is buying a wide sofa
+W domu są drewniane drzwi - On the house there are wooden doors
