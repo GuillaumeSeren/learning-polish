@@ -683,3 +683,19 @@ Sprzedaję metalowe i plastikowe rzeczy - I am selling metal and plastic things
 Jem plastikowej widelcem - I am eating with a plastic fork
 Ta kobieta kupuje szeroka zsofe - this woman is buying a wide sofa
 W domu są drewniane drzwi - On the house there are wooden doors
+
+Słoń lubi ciasteczka - the elephant likes cookies
+Ja jestem mężczyzną - i am a men
+Koń i słoń - A horse and an elephant
+Ja mówię po polsku - I speak Polish
+Mleko i chleb proszę - milk and bread please
+Ona jest dziewczynka - she is a girl
+Słoń pije mleko - the elephant drinks milk
+Mówisz po angielsku - you speak English
+Jestem dziewczyną - I am a girl
+Tak przepraszam - yes I am sorry
+Mówisz po polsku - you speak Polish
+Przepraszam jem jabłko - sorry I am eating an apple
+On jest mężczyzna - he is a man
+Mamy ciasteczka - we have cookies
+Proszę nie - please no
