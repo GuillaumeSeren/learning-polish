@@ -699,3 +699,11 @@ Przepraszam jem jabłko - sorry I am eating an apple
 On jest mężczyzna - he is a man
 Mamy ciasteczka - we have cookies
 Proszę nie - please no
+
+Szukam niskiego młodego mężczyzny - i am looking for a short young man
+To jest biurko mojego poprzedniego szefa - this is the desk of my previous boss
+To biedna rodzina - this is a poor family
+Ciemny pokój w jasnym domu - A dark room in a bright house
+To idealne dziecko jest w idealnej szkoły - this ideal child is on a perfect school
+To idealny telefon dla mojej babci - this is a ideal phone for my grandma
+On pije wodę z plastikiem butelki - he is drinking water from a plastic bottle
