@@ -707,3 +707,19 @@ Ciemny pokój w jasnym domu - A dark room in a bright house
 To idealne dziecko jest w idealnej szkoły - this ideal child is on a perfect school
 To idealny telefon dla mojej babci - this is a ideal phone for my grandma
 On pije wodę z plastikiem butelki - he is drinking water from a plastic bottle
+
+Panie i panowie - Ladies and gentlemen
+Ten pan kupuje chleb - this gentleman is buying bread
+Pani robi dobre jedzenie - you make good food
+Co państwo robią - what are you doing
+Czy ja panów znam - do I know you
+Ten pan to mój wujek - this gentleman is my uncle
+Tak widzę panią - yes I see you
+Ten pan nie ma domu - this gentleman does not have a home
+Kogo państwo szukają - who are you looking for
+Oni państwa wspierają - they are supporting you
+Nie lubię pana - i do not like you
+Czy mówi pani po angielsku - does you speak English
+Oni państwa nie szanują - they do not respect you
+Dzień dobry, kogo panie szukają - hello who are you looking for
+Czy panie sprzedażą parasole - do you sell umbrellas
