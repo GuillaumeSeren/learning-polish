@@ -723,3 +723,15 @@ Czy mówi pani po angielsku - does you speak English
 Oni państwa nie szanują - they do not respect you
 Dzień dobry, kogo panie szukają - hello who are you looking for
 Czy panie sprzedażą parasole - do you sell umbrellas
+
+Dzień dobry, kogo panie szukają - good morning who are you looking for
+Pani robi dobre jedzenie - you are making good food
+Czy mówi panie po angielsku - do you speak English
+Tak widzę panią - yes I can see you
+Czy ja panów znam - do I know you
+Oni państwa nie szanują - they do not respect you
+Tak widzę panią - Yes I see you
+On pani nie pamięta - he does not remember you
+Kogo państwo szukają who are you looking for
+Oni państwa wspierają - they are supporting you
+Co państwo robią - what are you doing
