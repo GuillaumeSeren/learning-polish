@@ -735,3 +735,18 @@ On pani nie pamięta - he does not remember you
 Kogo państwo szukają who are you looking for
 Oni państwa wspierają - they are supporting you
 Co państwo robią - what are you doing
+
+Okna jest nad biurkiem - the windows is above the desk
+Lustro jest nad łóżkiem - the mirror is above the bed
+Ten stół jest duży - this table is big
+Idę przez twój dom - i am walking through your house
+On lubi ten zegar - he like this clock
+Lipiec to miesiąc zlata - July is a month of the summer
+Zegar jest nad stołem - the clock is above the table
+Mój duży stół i moje małe krzesło - my big table and my small chair
+Widzę was przez okno - I see through the window
+On lubi ten zegar - he like this clock
+One mają stół - the have a table
+To przez ciebie - it is because of you
+Godzina, miesiąc, rok - an hour, a month, a year
+Zegar jest nad stołem - the clock is above the table
