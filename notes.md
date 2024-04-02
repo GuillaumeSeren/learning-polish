@@ -750,3 +750,16 @@ One mają stół - the have a table
 To przez ciebie - it is because of you
 Godzina, miesiąc, rok - an hour, a month, a year
 Zegar jest nad stołem - the clock is above the table
+
+Źli ludzie nie szanują rodziców - bad people does not respect their parents
+Kupujemy nowy okno - we are buying a new window
+Mój dom ma okna - my house has windows
+W styczniu nie gotuję - I do not cook in January
+Ściany i okna - walls and windows
+Oni nie szanują tamtej dziewczynki they do not respect that girl
+Kupujemy nowe okna - we are buying a new window
+Gotuję mięso - I cook meat
+My kupujemy pomarańczowy czapki - we are buying orange caps
+Kogo widzisz - who do you see
+Kogo oni lubią - who do they like
+Kogo dzieci znają - who the children know
