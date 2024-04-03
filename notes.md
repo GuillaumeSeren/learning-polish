@@ -763,3 +763,14 @@ My kupujemy pomarańczowy czapki - we are buying orange caps
 Kogo widzisz - who do you see
 Kogo oni lubią - who do they like
 Kogo dzieci znają - who the children know
+
+W czwartek moja mama pisze książkę - my mum is writing a book on Thursday
+Mój brat jest moim pracownikiem - my brother is my employee
+Oni lubią jesień - they like autumn
+Mężczyzna bierze te spodnie - the man is taking these trousers
+W moim pokoju jest telewizor i komputer -
+Ta bateria jest mała - this battery is small
+Ta studentką pracuje jako modelka - this student works as a model
+Wiosna, lato, jesień, zima - spring summer autumn winter
+To moja praca - this is my job
+Nie nosi zegarka - I do not wear a watch
