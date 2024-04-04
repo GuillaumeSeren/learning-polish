@@ -774,3 +774,20 @@ Ta studentką pracuje jako modelka - this student works as a model
 Wiosna, lato, jesień, zima - spring summer autumn winter
 To moja praca - this is my job
 Nie nosi zegarka - I do not wear a watch
+
+Przepraszam jestem jabłkiem - excuse me I am an apple
+Widzisz tego małego psa - do you see this small dog
+Potrzebujemy dobrego psa - we need a good dog
+Nie pamiętam złej imprezy - i do not remember a bad party
+Nie dostarczamy dużych jabłek - we do not deliver big apple
+Oni nie sprzedają smacznych jabłek - they do not sell tasty apples
+Nie lubię złych psów - i do not like bad dogs
+On jest starym mężczyzna - he is an old man
+Ona jest złe człowiekiem - she is a bad person
+Ona jest starym człowiekiem - she is an old person
+On szanuje nowych pracowników - he respect new employee
+Ten kucharz nie gotuję smaczne zupę - this cook is not cooking tasty soup
+Jesteś nowin dzieckiem - you are a new child
+Nie lubię małych psów - I do not like small dogs
+Dziewczynka czyta nową książkę - the girl is reading a new book
+On mówi o dużych jabłkach - he is talking about big apple
