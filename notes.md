@@ -791,3 +791,18 @@ Jesteś nowin dzieckiem - you are a new child
 Nie lubię małych psów - I do not like small dogs
 Dziewczynka czyta nową książkę - the girl is reading a new book
 On mówi o dużych jabłkach - he is talking about big apple
+
+To biedna rodzina - this is a poor family
+Następnym miesiącem jest kwiecień - next month is April
+Normalny dom normalna szkoła normalni rodzice - A normal house a normal school normal parents
+Potrzebuje innego noża - i need a different knife
+Masz inne lampę - do you have a different lamp
+Pamiętacie poprzednią niedzielę - 
+Gdzie jest moja następna butelka - where is my next bottle
+To dla mnie ważne - it is important to me
+Ona odwiedza ważnego dyrektorka - she is visiting an important director
+Moja poprzednia żona jest aktorką - my previous wife is an actress
+Masz inną pracę - do you have another job
+Ona odwiedza ważnego dyrektorka - she is visiting an important director
+Ten bogaty mężczyzna wspiera biednych - this rich Man support the poor
+Czy bogaci ludzie jedzą kanapki - do Rich people eat sandwich
