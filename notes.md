@@ -806,3 +806,18 @@ Masz inną pracę - do you have another job
 Ona odwiedza ważnego dyrektorka - she is visiting an important director
 Ten bogaty mężczyzna wspiera biednych - this rich Man support the poor
 Czy bogaci ludzie jedzą kanapki - do Rich people eat sandwich
+
+Jestem czysty - 
+Ten stół jest brudny - this table is dirty
+Jasny kolor czy ciemny kolor - a bright color or a dark color
+Czy macie czystą wodę - do you have clean water
+Twój talerz nie jest czysty - your plate is not clean
+Lustro jest czysty - the mirror is clean
+Mam brudne okna - I have dirty windows
+Widzę całą torebkę jabłek - I see a whole bag of apple
+Całą mają rodzina potrzebuję lodówki - my entire family needs a refrigerator
+Nie widzę ciemnego ekranu - i do not see the dark screen
+To idealne dziecko jest w idealnej szkole - this perfect child is in the perfect school
+Lubisz jasne kolory - do you like light colors
+Dziewczynka je całego pomidora - the girl is eating a whole tomato
+To idealny telefon dla mojej babci - this is the ideal phone for my grandma
