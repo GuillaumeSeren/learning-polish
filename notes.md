@@ -821,3 +821,21 @@ To idealne dziecko jest w idealnej szkole - this perfect child is in the perfect
 Lubisz jasne kolory - do you like light colors
 Dziewczynka je całego pomidora - the girl is eating a whole tomato
 To idealny telefon dla mojej babci - this is the ideal phone for my grandma
+
+Jestem niska - i am short
+Ta kobieta jest wspaniała aktorką - this woman is a wonderful actress
+Twoja siostra jest popularną aktorką - your sister is a popular actress
+Ci niscy mężczyźni pracują w skołe - these short men works in school
+Szukam niskiego młodego mężczyzny - 
+To jest wspaniałe - this is wonderful
+Młody tygrys je mięso - the young tiger is eating
+Ona jest miła, młoda i popularna
+Ten pan jest wysoki - this man is tall
+Mamy wspaniałego syna - we have a wonderful son
+Mówimy o popularnym pisarzu - we are speaking about a popular writer
+Ona sprzedaje wysoką lodówkę - she is selling a tall refrigerator
+To wspaniały dzień dla mnie - it is a wonderful day for me
+Rodzice kupują niską sofę - the parents are buying a low sofa
+Ona jest miła młoda i popularna - she is nice young and popular
+W moim pokoju stoi wysokie lustro - in my room there is a tall mirror
+Jesteście mili dla mnie - you are nice to me
