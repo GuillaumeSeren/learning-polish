@@ -839,3 +839,17 @@ Rodzice kupują niską sofę - the parents are buying a low sofa
 Ona jest miła młoda i popularna - she is nice young and popular
 W moim pokoju stoi wysokie lustro - in my room there is a tall mirror
 Jesteście mili dla mnie - you are nice to me
+
+Nasz dom jest piękny - our house is beautiful
+Mam krótką bluzę - I have a short sweatshirt
+Te spodnie są brzydkie - these trousers are ugly
+Szukam długiej książki - i am looking for a long book
+Lubię moje długie skarpety - I like my long socks
+Luty to krótki miesiąc - February is a short month
+Nie kupuję ciężkich lodówek - I do not buy heavy fridge
+Widzę pięknego konia - I see a beautiful horse
+Moja żona kupuje piękną sukienkę - my wife is buying a wonderful dress
+Ten płaszcz jest brzydki - this overcoat is ugly
+Pies jest lekki człowiek jest ciężki - the dog is light the human is heavy
+Ona nosi lekką kurtkę - she wear a light jacket
+Twój maż nosi brzydzą koszulę - your husband wears an ugly shirt
