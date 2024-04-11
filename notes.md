@@ -853,3 +853,19 @@ Ten płaszcz jest brzydki - this overcoat is ugly
 Pies jest lekki człowiek jest ciężki - the dog is light the human is heavy
 Ona nosi lekką kurtkę - she wear a light jacket
 Twój maż nosi brzydzą koszulę - your husband wears an ugly shirt
+
+Ciekawie pytanie - an interesting question
+Duża wygodna sofa - a big confortable sofa
+Jego muzyka jest nudna - his music is boring
+Darmowy obiad - free lunch
+Szukamy wygodnego pokoju - we are looking for a comfortable room
+Pijemy tanią kawę - we are drinking cheap coffee
+Tanie spodnie nie są wygodne - cheap trouser are not comfortable
+Sprzedaję drogą herbaty - they sell expensive tea
+Nie lubię tej książki. Jest nudna - I do not like this book it is boring
+Jesteś ciekawą kobietą - you are an interesting woman
+Niedziela to nudny dzień - Sunday is a boring day
+Jedzenie jest darmowe - the food is free
+Oni produkują tanie telewizory - they produce cheap television sets
+Dlaczego ta rzecz jest droga - why is this thing expensive
+Nie czytam drogich czasopism - I do not read expensive magazine
