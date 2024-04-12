@@ -869,3 +869,21 @@ Jedzenie jest darmowe - the food is free
 Oni produkują tanie telewizory - they produce cheap television sets
 Dlaczego ta rzecz jest droga - why is this thing expensive
 Nie czytam drogich czasopism - I do not read expensive magazine
+
+Ona potrzebuję silnego mężczyzny - she need a strong man
+Mężczyzny jest silny, chłopiec jest słaby - the man is strong, the boy is weak
+Styczeń jest smutnym miesiącem - January is a sad month
+Te dzieci są słabe - this children are weak
+Twoja koszula jest mokra - your shirt is wet
+Ten talerz jest mokry - this plate is wet
+Nasze psy są mokre - our dogs are wet
+Dziś jestem smutny - today I am sad
+Ona słucha smutnej muzyki - she is listening to sad music
+Czy to podłoga jest sucha - is this floor dry
+Wiosna nie jest sucha roku - spring is not a dry season
+Wesoła i kolorowa książka dla dzieci - a cheerful and colorful Book for children
+Wesoły rolnik sprzedaże smaczne jabłka - a cheerful farmer is selling tasty apple
+Oni słuchają wesołej muzyki - they are listening to cheerful music
+Wiosna nie jest suchą porą roku - spring is not a dry season
+Moja babcia ma drewniany zegar - my grandma has a wooden spoon
+Kroję pomidry metalowym nożem - I am cutting tomatoes with a metal knife
