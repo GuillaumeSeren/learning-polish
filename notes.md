@@ -887,3 +887,17 @@ Oni słuchają wesołej muzyki - they are listening to cheerful music
 Wiosna nie jest suchą porą roku - spring is not a dry season
 Moja babcia ma drewniany zegar - my grandma has a wooden spoon
 Kroję pomidry metalowym nożem - I am cutting tomatoes with a metal knife
+
+Szeroki ekran - A wide screen
+On nosi szerokie spodnie - he wears wide trousers
+Ona ma drewniane łóżko - she has a wooden bed
+Oni są sławnymi artystami - the are famous artist
+Wysoka wąska szafa - a tall narrow wardrobe
+Nie mamy wiązki biurek - we do not have narrow desk
+Mój brat jest sławrnym lekarzem - my brother is a famous doctor
+Drewniana Łyska - a wooden spoon
+Aktorzy to sławni Ludzie - actors are famous people
+Dzieci mają platikowe pudełko - the children have a plastic box
+Ta kobieta kupuje szeroką sofę - this woman is buying a wide sofa
+Gotuję na metalowej kuchence - I am cooking on a metal stove
+Ona niesie plastikową miskę - she is carrying a plastic bowl
