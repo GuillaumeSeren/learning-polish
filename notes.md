@@ -901,3 +901,21 @@ Dzieci mają platikowe pudełko - the children have a plastic box
 Ta kobieta kupuje szeroką sofę - this woman is buying a wide sofa
 Gotuję na metalowej kuchence - I am cooking on a metal stove
 Ona niesie plastikową miskę - she is carrying a plastic bowl
+
+Portzebuję nowej łyżki - I need a new spoon
+Nie widzę tego pas - I do not see this dog
+Portzebuję dużej butelki - i need a big bottle
+Nie lubię małych psów - I do not like small dogs
+Nie lubię złych psowy - i do not like bad dogs
+Oni nie sprzedają smacznych jabłek - they do not sell tasty apples
+Ona jest starym człowiekiem - she is an old person
+Szukam małej torby - I am looking for a small bag
+Nie lubię starych dywanów - i do not like old carpets
+On nie pamięta starej sofy - he does not remember the old sofa
+On nie ma dużych parasoli - he does not have food umbrellas
+Szukam małej torebki - I am looking for a small bag
+Ona jest dobra babcia - she is a good grandmother
+Ten mężczyzna jest źlym człoviekiem - this man is a bad person
+Jem smacznego pomidora - I am eating a tasteful tomato
+On mówi o dużych jabłkach - he is talking about big apples
+Szukam niskiego młodego mężczyzny - I am looking for a short young man
