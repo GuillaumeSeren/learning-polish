@@ -919,3 +919,15 @@ Ten mężczyzna jest źlym człoviekiem - this man is a bad person
 Jem smacznego pomidora - I am eating a tasteful tomato
 On mówi o dużych jabłkach - he is talking about big apples
 Szukam niskiego młodego mężczyzny - I am looking for a short young man
+
+Lustro jest czyste - the mirror is clean
+Dziencinka je czałego pomidora - the girl is eating a whole tomato 
+Mam brudne okna - I have dirty windows
+Ten stół jest brudny - this table is dirty 
+Jasny dzień - A bright day
+Widzę całą torebkę jabłek - o see a whole bag of apple
+Ciemny pokój w jasnym domu - a dark room in a small house
+Nie widzę ciemnego ekranu - I do not see the dark screen
+Lustro jest czyste - the mirror is clean
+Ten stół jest brudny - this table is dirty
+Pracujemy cały miesiąc - we work for the entire month
