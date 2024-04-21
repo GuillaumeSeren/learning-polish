@@ -931,3 +931,16 @@ Nie widzę ciemnego ekranu - I do not see the dark screen
 Lustro jest czyste - the mirror is clean
 Ten stół jest brudny - this table is dirty
 Pracujemy cały miesiąc - we work for the entire month
+
+Nasz dom jest piękny - our house is beautiful
+Mam krótką bluzę - I have a short sweatshirt
+Moja żona kupuje piękną sukienkę - my wife is buying a wonderful dress
+Portzebujęsz lekkiego kosza - You need a light basket
+Ten płaszcz jest brzydki - this overcoat is ugly
+Szukam długiej książki - i am looking for a long book
+Mężczyzny niosą ciężką szafę - the men are carrying a heavy wardrobe
+Luty to krótki miesiąc - February is a short month
+Pies jest lekki człowiek jest ciężki - the dog is light the human is heavy
+Twój maż nosi brzydką koszulę - your husband wears an ugly shirt
+Lubię długie zimowe wieczory - I like long winter evenings
+Ona nosi lekką kurtkę - she wear a light jacket
